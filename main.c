@@ -24,4 +24,6 @@ int main(void)
 
   printf("Number %d in Fibonacci Series: %d\n",n,an);
 
+  return(0);
+
 }
