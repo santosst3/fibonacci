@@ -8,7 +8,6 @@ int main(void)
   int n;
   int k = 3;
 
-  
   printf("Number in Fibonacci Series: ");
   scanf("%d",&n);
 
