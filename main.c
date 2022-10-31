@@ -8,8 +8,10 @@ int main(void)
   int n;
   int k = 3;
 
-  printf("Number in Fibonacci Series: ");
-  scanf("%d",&n);
+  //printf("Number in Fibonacci Series: ");
+  //scanf("%d",&n);
+
+  n = 5; // Defining n for automated testing
 
   while (k<=n)
     {
