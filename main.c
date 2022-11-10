@@ -11,7 +11,7 @@ int main(void)
   //printf("Number in Fibonacci Series: ");
   //scanf("%d",&n);
 
-  n = 5; // Defining n for automated testing
+  n = 6; // Defining n for automated testing
 
   while (k<=n)
     {
